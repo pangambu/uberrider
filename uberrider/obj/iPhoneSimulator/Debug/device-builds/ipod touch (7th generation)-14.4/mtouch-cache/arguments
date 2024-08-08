@@ -1,0 +1,38 @@
+# Version: 14.14.2.5 (d16-9: 3836759d4)
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mtouch/mtouch.exe \
+	--debug \
+	--sgen-conc \
+	'/target-framework:Xamarin.iOS,Version=v1.0' \
+	--http-message-handler=NSUrlSessionHandler \
+	'\"--cache=/Users/paulmb/Projects/uberrider/uberrider/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/mtouch-cache\"' \
+	--root-assembly=/Users/paulmb/Projects/uberrider/uberrider/bin/iPhoneSimulator/Debug/uberrider.exe \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--targetver=14.4 \
+	'\"--sim=/Users/paulmb/Projects/uberrider/uberrider/bin/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/uberrider.app\"' \
+	--executable=uberrider \
+	--nolink \
+	--sdk=14.4 \
+	--aot-options=-O=-float32 \
+	--abi=x86_64 \
+	'\"--symbollist=/Users/paulmb/Projects/uberrider/uberrider/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/mtouch-symbols.list\"' \
+	--dsym=no \
+	--framework=/Users/paulmb/Library/Caches/XamarinBuildDownload/GAppM-6.9.0/Frameworks/GoogleAppMeasurement.framework \
+	--framework=Security \
+	--framework=StoreKit \
+	--framework=SystemConfiguration \
+	--framework=UIKit \
+	--framework=/Users/paulmb/Library/Caches/XamarinBuildDownload/GAppM-6.9.0/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	--reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	--reference=/Users/paulmb/.nuget/packages/xamarin.essentials/1.5.3.2/lib/xamarinios10/Xamarin.Essentials.dll \
+	--reference=/Users/paulmb/.nuget/packages/xamarin.firebase.ios.core/6.10.4/lib/xamarinios10/Firebase.Core.dll \
+	--reference=/Users/paulmb/.nuget/packages/xamarin.firebase.ios.database/6.6.0/lib/xamarinios10/Firebase.Database.dll \
+	'@/Users/paulmb/Projects/uberrider/uberrider/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/response-file.rsp' \
+	'--gcc_flags=-ObjC -lc++ -lsqlite3 -lz -ObjC -lc++ -lsqlite3 -lz' \

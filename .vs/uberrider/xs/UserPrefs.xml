@@ -1,0 +1,28 @@
+﻿<Properties HasIOSDesignerOverlayBeenDismissed="True" StartupConfiguration="{97BA674E-890F-47EF-9601-8BB1DB4105DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="uberrider/Main.cs">
+    <Files>
+      <File FileName="uberrider/LogInViewController.cs" Line="13" Column="2" />
+      <File FileName="uberrider/AppDelegate.cs" />
+      <File FileName="uberrider/RegisterViewController.cs" />
+      <File FileName="uberrider/Main.cs" Line="15" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="uberrider" expanded="True">
+            <Node name="uberrider" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.uberrider PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2DF28ABA-1E1D-412A-8E75-BDD85A9B8BEB" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

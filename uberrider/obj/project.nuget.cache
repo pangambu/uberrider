@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QkBx80Ut5IHWzlYcB9IYaPs3J70nAGKlkrI1PPTVtgmXOUk8EsAt7AwlFLxRQXmPA9pX2YOTgv4QyFB8MV2+Ug==",
+  "success": true,
+  "projectFilePath": "/Users/paulmb/Projects/uberrider/uberrider/uberrider.csproj",
+  "expectedPackageFiles": [
+    "/Users/paulmb/.nuget/packages/xamarin.build.download/0.10.0/xamarin.build.download.0.10.0.nupkg.sha512",
+    "/Users/paulmb/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/paulmb/.nuget/packages/xamarin.firebase.ios.core/6.10.4/xamarin.firebase.ios.core.6.10.4.nupkg.sha512",
+    "/Users/paulmb/.nuget/packages/xamarin.firebase.ios.database/6.6.0/xamarin.firebase.ios.database.6.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

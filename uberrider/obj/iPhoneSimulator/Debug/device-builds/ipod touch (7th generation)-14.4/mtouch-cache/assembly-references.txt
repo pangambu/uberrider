@@ -1,0 +1,12 @@
+/Users/paulmb/Projects/uberrider/uberrider/bin/iPhoneSimulator/Debug/uberrider.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mono/Xamarin.iOS/../../64bits/iOS/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mono/Xamarin.iOS/System.Numerics.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mono/Xamarin.iOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mono/Xamarin.iOS/System.Net.Http.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/14.14.2.5/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
+/Users/paulmb/.nuget/packages/xamarin.firebase.ios.core/6.10.4/lib/xamarinios10/Firebase.Core.dll
+/Users/paulmb/.nuget/packages/xamarin.firebase.ios.database/6.6.0/lib/xamarinios10/Firebase.Database.dll
